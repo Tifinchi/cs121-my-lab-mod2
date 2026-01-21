@@ -1,8 +1,38 @@
 {
 	"folders": [
 		{
-			"path": "."
-		}
+			"path": "ExperimentationGuide"
+		},
+		{
+			"path": "Strings"
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "UserInput"
+		},
+		{
+			"path": "Expressions"
+		},
+		{
+			"path": "Wrappers"
+		},
+		{
+			"path": "AssignmentOperators"
+		},
+		
 	],
-	"settings": {}
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/.placeholder": true,
+			"**/.vscode": true
+		},
+		"git.openRepositoryInParentFolders":"always"
+	}
 }
