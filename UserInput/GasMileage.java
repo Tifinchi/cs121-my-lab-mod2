@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /**
  * Demonstrates the use of the Scanner class to read numeric data.
  *

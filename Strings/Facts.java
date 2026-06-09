@@ -21,6 +21,9 @@ public class Facts
 		System.out.println("Letters in the Hawaiian alphabet: 12");
 
 		// A numeric value can be concatenated to a string
+		int dialCode;
+		dialCode =672;
+		System.out.println("Dialing code for Antarctica: " + dialCode);
 		System.out.println("Dialing code for Antarctica: " + 672);
 
 		System.out.println("Year in which Leonardo da Vinci invented "
